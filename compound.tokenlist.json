@@ -762,3 +762,11 @@
     "patch": 0
   }
 }
+"chainId": 1,
+      "address": "0xfbc4f3f645c4003a2e4f4e9b51077d2daa9a9341",
+      "name": "0x Protocol Token",
+      "symbol": "ZEDXION",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZEDXION.svg"
+    },
+    {
